@@ -1,1 +1,1 @@
-Streamlit link - 
+Streamlit link - http://localhost:8501/
